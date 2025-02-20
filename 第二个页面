@@ -1,0 +1,39 @@
+<html>
+  <body>
+    <p
+      style="
+        background: red;
+        height: 100;
+        width: max-width;
+        display: block;
+        margin: ;
+      "
+    >
+      p标签默认的style
+    </p>
+    <p
+      style="
+        background: rgb(153, 0, 255);
+        height: 100;
+        width: 500;
+        margin: 20;
+        border: 5px solid rgb(206, 12, 38);
+        padding: 5px;
+      "
+    >
+      第二个盒子
+    </p>
+    <p
+      style="
+        background: rgb(153, 0, 255);
+        height: 100;
+        width: 500;
+        margin: 20;
+        border: 5px solid rgb(206, 12, 38);
+        padding: 5px;
+      "
+    >
+      第三个盒子
+    </p>
+  </body>
+</html>
